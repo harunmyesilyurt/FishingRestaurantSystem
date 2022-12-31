@@ -1,0 +1,23 @@
+1 Levrek_Izgara 300
+2 Levrek_Buglama 400
+3 Barbun_Dolma 200
+4 Somon_Izgara 400
+5 Hamsi_Tava 300
+6 Hamsi_Buglama 500
+7 Mezgit_Fırın 200
+8 Ahtapot_Izgara 800 
+9 Karides_Sote 500
+10 Kalamar_Tava 400
+11 Uskumru_Fırın 300
+12 Istavrit_Izgara 200
+13 Lufer_Izgara 400
+14 Midye_Porsiyon 100
+15 Irmik_Helvası 200
+16 Un_Helvası 100
+17 Baklava 400
+18 Sekerpare 300
+19 Coban_Salata 200
+20 Akdeniz_Salata 200
+
+
+
