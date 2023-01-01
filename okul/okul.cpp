@@ -1,15 +1,3 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**			         BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				          PROGRAMLAMAYA GİRİŞİ DERSİ
-**
-**				ÖDEV NUMARASI…...: Proje 01
-**				ÖĞRENCİ ADI...............: Harun Mahmut Yeşiyurt
-**				ÖĞRENCİ NUMARASI.: G211210089
-**				DERS GRUBU…………: C Grubu 2. Öğretim
-****************************************************************************/
-
 #include <iostream>
 #include <fstream>
 #include <locale.h>
